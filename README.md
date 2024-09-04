@@ -42,11 +42,4 @@ I utilized a stock market dataset for this project. The dataset contains real-ti
 - `kafka_consumer.py`: Python script for consuming data from Kafka topics and storing it in S3.
 - `.gitignore`: Git ignore file for excluding unnecessary files from version control.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please reach out to [Your Name](mailto:your.email@example.com).
 
